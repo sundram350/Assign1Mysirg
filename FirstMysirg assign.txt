@@ -1,0 +1,25 @@
+Ans=1 ==>  Computer understand only binary language because computer hardware represent value in charge form if charg( I assume 1 if not 0)
+		example ram,processer etc. (computer hold the value in electric if yes hold 1 if no hold 0) I also see 1 or 0 form.)
+
+Ans=2 ==>  IDE Stands from ( integrated development environment  )
+
+Ans=3 ==>  Texteditor use for documents work.  But CodeEditor use for programming purpose.
+
+Ans=4 ==>  I use codeblock software, I write some code than I want preprocessor(pre. read # code add to my code) than I want to compiler(compiler conver my code in 0 or 1 form to system understand) and than I want Linker(Linker add some library code in my code because compiler does not know the meaning of some code lib. convert to undestandable code ) (C langu.  .c) ==>  (preprocessor .i ) ==> (Compiler .o) ==>(Linker .exe)
+
+Ans=5 a  C17 is the latest Version of C language
+
+b	C developed by ==>	Dennis Ritchie 
+
+c	System software work for system like graphic card, lane card, video card, sound card etc.
+	Application software work for user like Ms office, games, adobe software etc.
+
+d	if some value exm 25/2 =>Rem. 1
+			  12/2 =>Rem. 0
+			  6/2  =>Rem  0
+			  3/2  =>Rem  1
+			  1/2  =>Rem  1
+				Bottom to Up count 
+			11001==25      an other exp( 128 64 32 16 8 4 2 1 ) 16+8+1
+								1 1 0 0 1 ==> 25
+			
